@@ -1,0 +1,74 @@
+{
+    "guid": "752d4a2e-faa8-f171-77d8-e1c5f0f1b6d8",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "948c8dce-b211-fe78-bf44-672d6b35d0cf",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "7adb8bce-fe9a-21c5-45e4-109b28c35232",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Grid Dark Stairs Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9ead48fc-6eca-7875-09d6-98e3fa6a84bb",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Grid Dark Stairs Grid Dark Stairs Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "d40e29c2-b6ca-a4a7-18ae-d8431cf99cd7",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Grid Dark Stairs Grid Dark Stairs"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e4da5247-da93-f279-93ae-68ec5829adcd",
+                                "material_instance": "30e57bd6-14a2-8db6-2c5a-b72e922ce3bd"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "e4da5247-da93-f279-93ae-68ec5829adcd"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "752d4a2e-faa8-f171-77d8-e1c5f0f1b6d8"
+    },
+    "dependencies": [
+        "30e57bd6-14a2-8db6-2c5a-b72e922ce3bd",
+        "e4da5247-da93-f279-93ae-68ec5829adcd",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7"
+    ]
+}
