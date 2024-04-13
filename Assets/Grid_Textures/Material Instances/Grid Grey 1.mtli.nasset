@@ -1,1 +1,25 @@
-{"guid":"cb0a5fc8-5bcc-93de-1413-d94168ab7d32","assetTypeGuid":"ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f","dependencies":["846a87e3-b738-4471-a336-bcac78e126b1","23135969-71ae-5575-2246-68d7ea79cbe1"],"material":"846a87e3-b738-4471-a336-bcac78e126b1","descriptor_contents":[{"texture":"23135969-71ae-5575-2246-68d7ea79cbe1"}],"push_constants":[{"type":1,"value":0.0},{"type":1,"value":1.0}],"thumbnailGuid":"d96d83dd-db8a-e166-2c7d-b4445aa11e3b"}
+{
+    "guid": "cb0a5fc8-5bcc-93de-1413-d94168ab7d32",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "dependencies": [
+        "846a87e3-b738-4471-a336-bcac78e126b1",
+        "23135969-71ae-5575-2246-68d7ea79cbe1"
+    ],
+    "material": "846a87e3-b738-4471-a336-bcac78e126b1",
+    "descriptor_contents": [
+        {
+            "texture": "23135969-71ae-5575-2246-68d7ea79cbe1"
+        }
+    ],
+    "push_constants": [
+        {
+            "type": 1,
+            "value": 0.0
+        },
+        {
+            "type": 1,
+            "value": 1.0
+        }
+    ],
+    "thumbnailGuid": "d96d83dd-db8a-e166-2c7d-b4445aa11e3b"
+}

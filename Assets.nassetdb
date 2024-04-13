@@ -1008,6 +1008,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2e20339c-cb74-fd15-dcef-cb55a1875d87": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Grid_Textures/SC_Blockout_Grid.scene.nasset/Door Purple.mesh.nasset/Door Purple Grid Purple Door.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "453c6236-7d68-4542-d34a-cd3782e8bfd7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "2e3018e8-3839-0ae8-2d8d-9bc0bd680ed9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1766,6 +1778,13 @@
             "ab6072f0-c8b2-1d9a-e3a7-06d77127577d",
             "6cae2e0c-f6f1-f10c-1382-fc89cd8d0c4f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "5536a166-a831-6cee-f5a9-9699a5dcc824": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Grid_Textures/SC_Blockout_Grid.scene.nasset/Cube Purple.mesh.nasset/Cube Purple.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "55a7f272-5863-d8f0-8fbd-aaa427799d99": {
@@ -3128,6 +3147,13 @@
         "dependencies": [
             "846a87e3-b738-4471-a336-bcac78e126b1",
             "3af1c1bc-ca8d-dcd8-a977-810ef4c3f649"
+        ]
+    },
+    "8f284c56-4535-91d0-c9a3-ccf3d1f6fba2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Grid_Textures/SC_Blockout_Grid.scene.nasset/Door Purple.mesh.nasset/Door Purple.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "8f528fe8-b3b4-2b5a-e5cc-6d6003ac720a": {
@@ -5424,6 +5450,18 @@
         ],
         "dependencies": [
             "ab6072f0-c8b2-1d9a-e3a7-06d77127577d",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ef64738d-0c0c-7f43-f549-6438d4e5b429": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Grid_Textures/SC_Blockout_Grid.scene.nasset/Cube Purple.mesh.nasset/Cube Purple Grid Purple 3.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "dd159132-1234-d30a-f4f4-5bfd0ea037ba",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
